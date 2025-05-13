@@ -1,0 +1,156 @@
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/untitled folder/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9e01fb10 at 0x16fb1af40>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.2067201137542725 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/untitled folder/animated_drawings/Users/bhawnasahu/Desktop/Project/untitled folder/examples/bvh/fair1/dab.bvh
+CRITICAL:root:Error loading BVH: [Errno 2] No such file or directory: '/Users/bhawnasahu/Desktop/Project/untitled folder/animated_drawings/Users/bhawnasahu/Desktop/Project/untitled folder/animated_drawings/../examples/bvh/fair1/dab.bvh'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9a517b10 at 0x13fe18f40>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.216101884841919 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error loading BVH: [Errno 2] No such file or directory: '/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/../modification/bvh/fair1/dab.bvh'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9c35fb10 at 0x15ffd8fa0>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.228743076324463 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error loading BVH: [Errno 2] No such file or directory: '/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/../modification/bvh/fair1/dab.bvh'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9dcbbb10 at 0x17f058fa0>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.2024059295654297 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error loading BVH: [Errno 2] No such file or directory: '/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/../modification/bvh/fair1/dab.bvh'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9a47fb10 at 0x14fe5beb0>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.2077922821044922 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error loading BVH: [Errno 2] No such file or directory: '/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/Users/bhawnasahu/Desktop/Project/modification/animated_drawings/../modification/bvh/fair1/dab.bvh'
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+CRITICAL:root:Could not find the bvh filepath specified: modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error validating bvh_p: Could not find the bvh filepath specified: modification/bvh/fair1/dab.bvh
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+CRITICAL:root:Could not find the bvh filepath specified: modification/bvh/fair1/dab.bvh
+CRITICAL:root:Error validating bvh_p: Could not find the bvh filepath specified: modification/bvh/fair1/dab.bvh
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_detector HTTP/11" 200 195
+INFO:root:Detected 1 humanoids in image. Using detection with highest score 0.9965305924415588.
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): localhost:8080
+DEBUG:urllib3.connectionpool:http://localhost:8080 "POST /predictions/drawn_humanoid_pose_estimator HTTP/11" 200 1678
+INFO:root:Using user-specified mvc config file located at /Users/bhawnasahu/Desktop/Project/modification/drawing_output/mvc_cfg.yaml
+INFO:OpenGL.acceleratesupport:No OpenGL_accelerate module loaded: No module named 'OpenGL_accelerate'
+DEBUG:shapely.geos:Formed path for globbing: dylib_path='/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/*.dylib'
+DEBUG:shapely.geos:Globbed: geos_whl_dylib=['/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos.3.10.3.dylib', '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib']
+DEBUG:shapely.geos:Found GEOS DLL: <CDLL '/opt/anaconda3/envs/animated_drawings/lib/python3.8/site-packages/shapely/.dylibs/libgeos_c.1.16.1.dylib', handle 9dbfbb10 at 0x17efd6fa0>, using it.
+INFO:root:OpenGL Version: 4.1 Metal - 88.1
+INFO:root:GLSL: 4.10
+INFO:root:Renderer: Apple M3
+INFO:root:2 separate polygons found in mask. Using largest.
+INFO:root:Encountered values close to zero in vector norm. Replacing with 1e-05
+INFO:root:char_runtime_check failed, removing neck from retargeter :('neck', 'above', 'right_shoulder', 'left_shoulder')
+INFO:root:Starting joint -> mask pixel BFS
+INFO:root:Finished joint -> mask pixel BFS in 1.2199218273162842 seconds
+INFO:root:Using BVH file located at /Users/bhawnasahu/Desktop/Project/modification/bvh/fair1/dab.bvh
+INFO:root:Upper Limbs projection_method is pca. Running PCA on ['RightShoulder', 'RightArm', 'RightForeArm', 'RightHand', 'RightHandEnd', 'LeftShoulder', 'LeftArm', 'LeftForeArm', 'LeftHand', 'LeftHandEnd']
+INFO:root:PCA complete. Upper Limbs using [1. 0. 0.]
+INFO:root:Lower Limbs projection_method is pca. Running PCA on ['RightUpLeg', 'RightLeg', 'RightFoot', 'RightToeBase', 'LeftUpLeg', 'LeftLeg', 'LeftFoot', 'LeftToeBase']
+INFO:root:PCA complete. Lower Limbs using [1. 0. 0.]
+INFO:root:Trunk projection_method is frontal. Using [1. 0. 0.]
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: RightHandThumb1
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: LeftHandThumb1
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root: error finding projection plane for joint_name: End Site
+INFO:root:tA1xA1 is singular. perturbing...
+INFO:root:tA2xA2 is singular. perturbing...
+INFO:root: Writing video to: /Users/bhawnasahu/Desktop/Project/modification/drawing_output/video.gif
+INFO:root:invalid frame_idx (339), replacing with last frame 338
+INFO:root:Rendered 339 frames in 7.36339807510376 seconds.
+INFO:root:VideoWriter will write to /Users/bhawnasahu/Desktop/Project/modification/drawing_output/video.gif
+INFO:root:Wrote video to file in in 5.67169713973999 seconds.

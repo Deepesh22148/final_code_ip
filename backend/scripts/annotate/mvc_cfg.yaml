@@ -1,0 +1,15 @@
+controller:
+  FPS: 1
+  MODE: video_render
+  OUTPUT_VIDEO_PATH: testing_video/video_jumping_jacks.gif
+renderer:
+  antialiasing: false
+  resolution: !!python/tuple
+  - 320
+  - 240
+  shadows: false
+scene:
+  ANIMATED_CHARACTERS:
+  - character_cfg: /Users/bhawnasahu/Desktop/Project/modification/annotate/char_cfg.yaml
+    motion_cfg: /Users/bhawnasahu/Desktop/Project/modification/config/motion/jumping_jacks.yaml
+    retarget_cfg: /Users/bhawnasahu/Desktop/Project/modification/config/retarget/cmu1_pfp.yaml
